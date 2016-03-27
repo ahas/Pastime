@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Page lines="4">
+	<Highlight line="0" draw="10" length="300" />
+	<Highlight line="1" draw="300" length="700" />
+	<Door lines="0, 3" draw="120" />
+	<Stairs lines="3, 2" draw="300" />
+	
+	<Wall color="Red" line="2" draw="200" key="0" />
+	<Switch color="Red" line="2" draw="500" key="0" />
+	
+	<Wall color="Green" line="2" draw="600" key="1" />
+	<Wall color="Green" line="3" draw="900" key="1" />
+	<Switch color="Green" line="3" draw="500" key="1" />
+	
+	<Wall color="Blue" line="3" draw="200" key="2" />
+	<Switch color="Blue" line="0" draw="500" key="2" />
+	
+	<Wall line="1" draw="100" />
+	<Eraser line="1" draw="200" />
+	<Wall line="1" draw="300" />
+	
+	<Player line="0" draw="10" />
+</Page>
